@@ -19,6 +19,8 @@ B = {6, 3, 9, 9, 1, 3} => (6 - 3), (9 - 9), (1 - 3)
 
 İki sayı karşılaştırıldığında sayılar birbirinden farklı ise iki sayı toplanır (sayı 1 + sayı 2), aynı ise toplamın karesi alınır ((sayı 1 + sayı 2)^2). Ardından sonuç kullanıcıya sunulur.
 
+![](gorsel/appScreen.png)
+
 ## Kurulum
 Öncelikle projeyi klonlayın.
 
