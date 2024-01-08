@@ -33,5 +33,5 @@ Projeyi klonladıktan sonra **Visual Studio Code** üzerinde açınız.
 code integer_ikililerin_toplami
 ```
 
-## LICENSE
+## LİSANS
 [MIT](LICENSE)
